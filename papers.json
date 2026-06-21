@@ -1,122 +1,52 @@
 [
   {
-    "title": "Rational design, synthesis, and evaluations of HBV capsid assembly modulators featuring a core of 2-amino-5-(2-amino-2-oxoacetyl)-4-methylthiophene-3-carboxamide.",
-    "authors": "Zhang X, Shi Y, Sang S, Xie H, Zhang P, Zhang X, Liu Z, Luo X, Liao C",
-    "pub_date": "2026 Sep 5",
-    "category": "Other",
-    "summary": "1. Eur J Med Chem. 2026 Sep 5;313:118892. doi: 10.1016/j.ejmech.2026.118892. Epub\n 2026 Apr 27.\n\nRational design, synthesis, and evaluations of HBV capsid assembly modulators \nfeaturing a core of \n2-a...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42085721/"
-  },
-  {
-    "title": "Process for standardizing and assessing the parameters governing MS2 virus-like particle reassembly around nucleic acid cargo.",
-    "authors": "de Castro Assumpcao D, Vinokour ES, Mills MM, Liang S, Mills CE, da Costa AC, Kennedy NW, Tullman-Ercek D",
-    "pub_date": "2026 Jul 25",
-    "category": "Other",
-    "summary": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/41839234/"
-  },
-  {
-    "title": "Real-time visualization of infection dynamics using a bioluminescent reporter-expressing recombinant Getah virus.",
-    "authors": "Ren T, Wang G, Li P, Zhong Z, Liu M, Zhang L, Qin Y, Ouyang K, Chen Y, Huang W, Wei Z",
-    "pub_date": "2026 Jul",
-    "category": "Other",
-    "summary": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42048841/"
-  },
-  {
-    "title": "Structure of Human adenovirus 7 virus-like particles, a platform for developing nanotherapeutics and studying capsid assembly.",
-    "authors": "Madoo K, Mazboudi R, Islam ZM, Luo J, Kuschner RA, Gottlieb P, Dennehy JJ, Abzalimov RR, Galarza JM, Khayat R",
-    "pub_date": "2026 Jun 23",
-    "category": "Other",
-    "summary": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42301791/"
-  },
-  {
-    "title": "Functional SLC29A3/ENT3 drives autophagic clearance of intracellular viral particles.",
-    "authors": "Joshi A, Larue RC, Govindarajan R",
-    "pub_date": "2026 Jun 19",
-    "category": "Other",
-    "summary": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42320680/"
-  },
-  {
-    "title": "CBASS limits bacteriophage production while maintaining cell viability in Pseudomonas aeruginosa.",
-    "authors": "Huiting E, Shmidov E, Wang B, Musunuri S, Gitai Z, Bondy-Denomy J",
-    "pub_date": "2026 Jun 19",
-    "category": "Other",
-    "summary": "1. Cell Host Microbe. 2026 Jun 19:S1931-3128(26)00217-9. doi: \n10.1016/j.chom.2026.05.024. Online ahead of print.\n\nCBASS limits bacteriophage production while maintaining cell viability in \nPseudomona...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42320474/"
-  },
-  {
-    "title": "Mendelian randomization evidence for a causal link between Epstein-Barr virus antibody levels and head and neck cancer risk.",
-    "authors": "Qiu J, Li MF, Guo YM, Yue CF, Pang LJ",
-    "pub_date": "2026 Jun 12",
+    "title": "Advancements in therapeutic HBV vaccines: navigating the path toward functional cure.",
+    "authors": "Wang X, Wu T",
+    "pub_date": "2026 May 22",
     "category": "Experimental",
-    "summary": "1. Medicine (Baltimore). 2026 Jun 12;105(24):e49115. doi: \n10.1097/MD.0000000000049115.\n\nMendelian randomization evidence for a causal link between Epstein-Barr virus \nantibody levels and head and nec...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42299525/"
+    "summary": "1. Vaccine. 2026 May 22;82:128610. doi: 10.1016/j.vaccine.2026.128610. Epub 2026 \nApr 21.\n\nAdvancements in therapeutic HBV vaccines: navigating the path toward functional \ncure.\n\nWang X(1), Wu T(2).\n\n...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42019132/",
+    "source": "PubMed",
+    "last_updated": "2026-06-21T01:09:53Z"
   },
   {
-    "title": "Negative cooperativity drives activity of capsid-directed antivirals against hepatitis B virus.",
-    "authors": "Valkner CJ, Gibes N, Xie MS, Nair S, Kumar S, Francis S, Venkatakrishnan B, Tsvetkova I, Patterson A, VanNieuwenhze M, Dragnea B, Wang JC, Zlotnick A",
-    "pub_date": "2026 Jun 12",
-    "category": "Other",
-    "summary": "1. Sci Adv. 2026 Jun 12;12(24):eaed6483. doi: 10.1126/sciadv.aed6483. Epub 2026\nJun  12.\n\nNegative cooperativity drives activity of capsid-directed antivirals against \nhepatitis B virus.\n\nValkner CJ(1...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42284399/"
-  },
-  {
-    "title": "A highly conserved basic motif in the wing domain of portal protein is necessary for oligomerization and incorporation in phage P22.",
-    "authors": "Leroux MN, Young LM, Jarrold MF, Teschke CM",
-    "pub_date": "2026 Jun 12",
+    "title": "The MHV-68 nuclear egress complex supports C-capsid selective capsid egress.",
+    "authors": "Sanders S, Schneider C, Soh TK, Kotova E, Stalling D, Steer B, Reimer R, Ruzsics Z, Adler H, Bosse JB",
+    "pub_date": "2026 May 19",
     "category": "Other",
     "summary": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42283461/"
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41995350/",
+    "source": "PubMed",
+    "last_updated": "2026-06-21T01:09:54Z"
   },
   {
-    "title": "Different mechanisms for human rhinovirus survival in the presence of deleterious amino acid substitutions at virion protein-protein or RNA-protein interfaces.",
-    "authors": "Gil-Redondo JC, Riomoros-Barahona V, Valiente L, Valbuena A, Mateu MG",
-    "pub_date": "2026 Jun 10",
-    "category": "Other",
-    "summary": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42267806/"
-  },
-  {
-    "title": "Cryo-EM structures of prevalent gut phage PD491P1 uncover extensive disulfide stabilization and distinct structural adaptations.",
-    "authors": "Cai C, Wang A, Shao Q, Zhang J, Wang Y, Hu H, Yuan K, Li L, Wang X, Fang Q, Ma Y",
-    "pub_date": "2026 Jun 4",
-    "category": "Other",
-    "summary": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42086047/"
-  },
-  {
-    "title": "Performance of prototype serological immunoassays for foot-and-mouth disease virus using G-H loop peptides and stabilized virus-like particles.",
-    "authors": "Yassin AA, Sewell Y, Ludi AB, Burman A, Limon G, Afzal M, Horton D, King DP, Asfor AS",
-    "pub_date": "2026 Jun 2",
+    "title": "Virus-like particles as antiviral strategies against shrimp viral diseases.",
+    "authors": "Jariyapong P, Pooljun C, Weerachatyanukul W",
+    "pub_date": "2026 May 20",
     "category": "Experimental",
-    "summary": "1. Microbiol Spectr. 2026 Jun 2;14(6):e0351425. doi: 10.1128/spectrum.03514-25. \nEpub 2026 Apr 27.\n\nPerformance of prototype serological immunoassays for foot-and-mouth disease \nvirus using G-H loop p...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42037383/"
+    "summary": "1. J Invertebr Pathol. 2026 May 20;218:108654. doi: 10.1016/j.jip.2026.108654. \nOnline ahead of print.\n\nVirus-like particles as antiviral strategies against shrimp viral diseases.\n\nJariyapong P(1), Po...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42167719/",
+    "source": "PubMed",
+    "last_updated": "2026-06-21T01:09:54Z"
   },
   {
-    "title": "Functional characterization of EcPSMB10: Suppression of RGNNV replication via inhibiting autophagy in vitro.",
-    "authors": "Li X, Jiang F, Wang Y, Wang K, Feng W, Qin Q, Yang M",
-    "pub_date": "2026 Jun 1",
-    "category": "Experimental",
-    "summary": "1. Fish Shellfish Immunol. 2026 Jun 1;176:111481. doi: 10.1016/j.fsi.2026.111481.\n Online ahead of print.\n\nFunctional characterization of EcPSMB10: Suppression of RGNNV replication via \ninhibiting aut...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42229675/"
-  },
-  {
-    "title": "Applying Distinct CDMS Strategies to Observe Nonclassical Virus Capsid Assembly.",
-    "authors": "Thiede L, Haris A, Damjanović T, Kung JCK, Müller-Guhl J, Pogan R, Rothe J, Schultze W, Ugelstad S, Eatough D, Giles K, Preece S, Richardson K, Ujma J, Uetrecht C",
-    "pub_date": "2026 Jun",
-    "category": "Experimental",
-    "summary": "1. J Mass Spectrom. 2026 Jun;61(6):e70068. doi: 10.1002/jms.70068.\n\nApplying Distinct CDMS Strategies to Observe Nonclassical Virus Capsid Assembly.\n\nThiede L(1)(2), Haris A(3), Damjanović T(1)(2), Ku...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42206604/"
-  },
-  {
-    "title": "EBV viral load and miR-BART10-3p expression in multiple sclerosis: A case-control study.",
-    "authors": "Rahimi SB, Hashemi SMA, Poursadeghfard M, Tamaddon G, Jamalidoust M, Daryabor G, Sarvari J",
-    "pub_date": "2026 Jun",
+    "title": "Emerging antiviral drugs and immunotherapy for chronic hepatitis B and associated liver disease.",
+    "authors": "Zhu C, Yang J, Sheng Y, Fang M",
+    "pub_date": "2026",
     "category": "Other",
-    "summary": "",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42066693/"
+    "summary": "1. Front Immunol. 2026 May 18;17:1806527. doi: 10.3389/fimmu.2026.1806527. \neCollection 2026.\n\nEmerging antiviral drugs and immunotherapy for chronic hepatitis B and \nassociated liver disease.\n\nZhu C(...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42233029/",
+    "source": "PubMed",
+    "last_updated": "2026-06-21T01:09:55Z"
+  },
+  {
+    "title": "Atypical presentation of Epstein-Barr virus infectious mononucleosis with bilateral dacryoadenitis in an elderly patient: a case report.",
+    "authors": "Mahfoud N, Ali M, Abboud M",
+    "pub_date": "2026 May 26",
+    "category": "Experimental",
+    "summary": "1. J Med Case Rep. 2026 May 26. doi: 10.1186/s13256-026-06165-x. Online ahead of \nprint.\n\nAtypical presentation of Epstein-Barr virus infectious mononucleosis with \nbilateral dacryoadenitis in an elde...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42192474/",
+    "source": "PubMed",
+    "last_updated": "2026-06-21T01:09:53Z"
   }
 ]

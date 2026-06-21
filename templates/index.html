@@ -11,7 +11,7 @@
     <p class="subtitle">AI‑powered discovery and summarization of virus assembly literature</p>
     <p class="disclaimer"><strong>Disclaimer:</strong> This tool displays public paper metadata and generated summaries for research discovery only. Please consult the original publications for full details.</p>
   </header>
-
+  <p class="last-updated">Last Updated: <span id="lastUpdated">Never</span></p>
   <section class="stats" id="statsBar">
     <div class="stat"><span class="label">Total</span>: <span class="value" id="totalCount">0</span></div>
     <div class="stat"><span class="label">Experimental</span>: <span class="value" id="expCount">0</span></div>
@@ -84,21 +84,28 @@
     }
 
     async function refreshPapers() {
-      const btn = document.getElementById('refreshBtn');
-      const spinner = document.getElementById('refreshSpinner');
-      btn.disabled = true;
-      spinner.style.display = 'inline-block';
-      try {
-        await fetch('/refresh', {method: 'POST'});
-        await loadPapers();
-      } catch (e) {
-        console.error('Refresh failed', e);
-        alert('Unable to fetch new papers. Showing previously stored results.');
-      } finally {
-        btn.disabled = false;
-        spinner.style.display = 'none';
-      }
+  const btn = document.getElementById('refreshBtn');
+  const spinner = document.getElementById('refreshSpinner');
+  const lastUpdatedSpan = document.getElementById('lastUpdated');
+  btn.disabled = true;
+  spinner.style.display = 'inline-block';
+  try {
+    const resp = await fetch('/refresh', {method: 'POST'});
+    const data = await resp.json();
+    if (data.last_updated) {
+      lastUpdatedSpan.textContent = new Date(data.last_updated).toLocaleString();
     }
+    await loadPapers();
+  } catch (e) {
+    console.error('Refresh failed', e);
+    alert('Unable to fetch new papers. Showing previously stored results.');
+  } finally {
+    btn.disabled = false;
+    spinner.style.display = 'none';
+  }
+}
+// Duplicate refresh logic removed
+
 
     document.getElementById('refreshBtn').addEventListener('click', refreshPapers);
     document.querySelectorAll('.filter-pill').forEach(btn => {

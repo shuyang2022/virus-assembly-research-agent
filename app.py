@@ -39,7 +39,9 @@ def api_papers():
 
 @app.route('/refresh', methods=['POST'])
 def refresh():
+    # Perform fresh search and log counts
     raw = search_papers()
+    print(f"[app] Fetched {len(raw)} papers from search agents")
     processed = []
     for rec in raw:
         abstract = rec.get('abstract', '')
@@ -51,10 +53,15 @@ def refresh():
             'pub_date': rec.get('pub_date', ''),
             'category': category,
             'summary': summary,
-            'url': rec.get('url', '')
+            'url': rec.get('url', ''),
+            'source': rec.get('source', ''),
+            'last_updated': rec.get('last_updated', ''),
         })
+    print(f"[app] Processed and will display {len(processed)} papers")
+    # Save processed papers (which already include source and last_updated)
     save_papers(processed)
-    return jsonify({"status": "updated", "count": len(processed)})
+    # Return status with count and timestamp
+    return jsonify({"status": "updated", "count": len(processed), "last_updated": datetime.utcnow().replace(microsecond=0).isoformat() + "Z"})
 
 if __name__ == '__main__':
     app.run(debug=True)
