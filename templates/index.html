@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Virus Assembly Research Dashboard</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h1>Virus Assembly Research Dashboard</h1>
+  <p class="disclaimer"><strong>Disclaimer:</strong> This tool displays public paper metadata and generated summaries for research discovery only. Please consult the original publications for full details.</p>
+  <button id="refreshBtn">Refresh Papers</button>
+  <div class="filters">
+    <label><input type="checkbox" value="Experimental" checked> Experimental</label>
+    <label><input type="checkbox" value="Theoretical" checked> Theoretical</label>
+    <label><input type="checkbox" value="Simulation" checked> Simulation</label>
+    <label><input type="checkbox" value="Other" checked> Other</label>
+  </div>
+  <div id="papers" class="cards"></div>
+  <script>
+    async function loadPapers(){
+      const resp = await fetch('/api/papers');
+      const papers = await resp.json();
+      const container = document.getElementById('papers');
+      container.innerHTML = '';
+      const selected = Array.from(document.querySelectorAll('.filters input:checked')).map(i=>i.value);
+      papers.filter(p=>selected.includes(p.category)).forEach(p=>{
+        const card = document.createElement('div');
+        card.className='card';
+        card.innerHTML = `
+          <h3>${p.title}</h3>
+          <p><em>${p.authors}</em> (${p.pub_date})</p>
+          <p><strong>Category:</strong> ${p.category}</p>
+          <p>${p.summary}</p>
+          <a href="${p.url}" target="_blank">Read on PubMed</a>
+        `;
+        container.appendChild(card);
+      });
+    }
+    document.getElementById('refreshBtn').addEventListener('click', async()=>{
+      await fetch('/refresh', {method:'POST'});
+      await loadPapers();
+    });
+    document.querySelectorAll('.filters input').forEach(cb=>cb.addEventListener('change', loadPapers));
+    loadPapers();
+  </script>
+</body>
+</html>

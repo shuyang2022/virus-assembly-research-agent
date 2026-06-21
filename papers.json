@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Structural insights into virus capsid assembly",
+    "authors": "Doe J, Smith A",
+    "pub_date": "2024-05-10",
+    "category": "Experimental",
+    "summary": "We report cryo‑EM structures of capsid intermediates revealing mechanisms of assembly. Experimental data show...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12345678/"
+  },
+  {
+    "title": "Computational modeling of viral capsid formation",
+    "authors": "Lee K, Patel R",
+    "pub_date": "2023-11-22",
+    "category": "Simulation",
+    "summary": "Using coarse‑grained simulations we investigate the kinetic pathways of capsid assembly. Theoretical analysis suggests...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/87654321/"
+  },
+  {
+    "title": "Experimental validation of capsid protein interactions",
+    "authors": "Nguyen L, Chen Y",
+    "pub_date": "2025-01-15",
+    "category": "Experimental",
+    "summary": "Biochemical assays confirm the role of specific residues in capsid protein‑protein interactions. Experimental results...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/11223344/"
+  }
+]
