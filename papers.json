@@ -1,26 +1,122 @@
 [
   {
-    "title": "Structural insights into virus capsid assembly",
-    "authors": "Doe J, Smith A",
-    "pub_date": "2024-05-10",
-    "category": "Experimental",
-    "summary": "We report cryo‑EM structures of capsid intermediates revealing mechanisms of assembly. Experimental data show...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/12345678/"
+    "title": "Rational design, synthesis, and evaluations of HBV capsid assembly modulators featuring a core of 2-amino-5-(2-amino-2-oxoacetyl)-4-methylthiophene-3-carboxamide.",
+    "authors": "Zhang X, Shi Y, Sang S, Xie H, Zhang P, Zhang X, Liu Z, Luo X, Liao C",
+    "pub_date": "2026 Sep 5",
+    "category": "Other",
+    "summary": "1. Eur J Med Chem. 2026 Sep 5;313:118892. doi: 10.1016/j.ejmech.2026.118892. Epub\n 2026 Apr 27.\n\nRational design, synthesis, and evaluations of HBV capsid assembly modulators \nfeaturing a core of \n2-a...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42085721/"
   },
   {
-    "title": "Computational modeling of viral capsid formation",
-    "authors": "Lee K, Patel R",
-    "pub_date": "2023-11-22",
-    "category": "Simulation",
-    "summary": "Using coarse‑grained simulations we investigate the kinetic pathways of capsid assembly. Theoretical analysis suggests...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/87654321/"
+    "title": "Process for standardizing and assessing the parameters governing MS2 virus-like particle reassembly around nucleic acid cargo.",
+    "authors": "de Castro Assumpcao D, Vinokour ES, Mills MM, Liang S, Mills CE, da Costa AC, Kennedy NW, Tullman-Ercek D",
+    "pub_date": "2026 Jul 25",
+    "category": "Other",
+    "summary": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41839234/"
   },
   {
-    "title": "Experimental validation of capsid protein interactions",
-    "authors": "Nguyen L, Chen Y",
-    "pub_date": "2025-01-15",
+    "title": "Real-time visualization of infection dynamics using a bioluminescent reporter-expressing recombinant Getah virus.",
+    "authors": "Ren T, Wang G, Li P, Zhong Z, Liu M, Zhang L, Qin Y, Ouyang K, Chen Y, Huang W, Wei Z",
+    "pub_date": "2026 Jul",
+    "category": "Other",
+    "summary": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42048841/"
+  },
+  {
+    "title": "Structure of Human adenovirus 7 virus-like particles, a platform for developing nanotherapeutics and studying capsid assembly.",
+    "authors": "Madoo K, Mazboudi R, Islam ZM, Luo J, Kuschner RA, Gottlieb P, Dennehy JJ, Abzalimov RR, Galarza JM, Khayat R",
+    "pub_date": "2026 Jun 23",
+    "category": "Other",
+    "summary": "1. Proc Natl Acad Sci U S A. 2026 Jun 23;123(25):e2526969123. doi: \n10.1073/pnas.2526969123. Epub 2026 Jun 16.\n\nStructure of Human adenovirus 7 virus-like particles, a platform for developing \nnanothe...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42301791/"
+  },
+  {
+    "title": "Functional SLC29A3/ENT3 drives autophagic clearance of intracellular viral particles.",
+    "authors": "Joshi A, Larue RC, Govindarajan R",
+    "pub_date": "2026 Jun 19",
+    "category": "Other",
+    "summary": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42320680/"
+  },
+  {
+    "title": "CBASS limits bacteriophage production while maintaining cell viability in Pseudomonas aeruginosa.",
+    "authors": "Huiting E, Shmidov E, Wang B, Musunuri S, Gitai Z, Bondy-Denomy J",
+    "pub_date": "2026 Jun 19",
+    "category": "Other",
+    "summary": "1. Cell Host Microbe. 2026 Jun 19:S1931-3128(26)00217-9. doi: \n10.1016/j.chom.2026.05.024. Online ahead of print.\n\nCBASS limits bacteriophage production while maintaining cell viability in \nPseudomona...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42320474/"
+  },
+  {
+    "title": "Mendelian randomization evidence for a causal link between Epstein-Barr virus antibody levels and head and neck cancer risk.",
+    "authors": "Qiu J, Li MF, Guo YM, Yue CF, Pang LJ",
+    "pub_date": "2026 Jun 12",
+    "category": "Other",
+    "summary": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42299525/"
+  },
+  {
+    "title": "Negative cooperativity drives activity of capsid-directed antivirals against hepatitis B virus.",
+    "authors": "Valkner CJ, Gibes N, Xie MS, Nair S, Kumar S, Francis S, Venkatakrishnan B, Tsvetkova I, Patterson A, VanNieuwenhze M, Dragnea B, Wang JC, Zlotnick A",
+    "pub_date": "2026 Jun 12",
+    "category": "Other",
+    "summary": "1. Sci Adv. 2026 Jun 12;12(24):eaed6483. doi: 10.1126/sciadv.aed6483. Epub 2026\nJun  12.\n\nNegative cooperativity drives activity of capsid-directed antivirals against \nhepatitis B virus.\n\nValkner CJ(1...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42284399/"
+  },
+  {
+    "title": "A highly conserved basic motif in the wing domain of portal protein is necessary for oligomerization and incorporation in phage P22.",
+    "authors": "Leroux MN, Young LM, Jarrold MF, Teschke CM",
+    "pub_date": "2026 Jun 12",
+    "category": "Other",
+    "summary": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42283461/"
+  },
+  {
+    "title": "Different mechanisms for human rhinovirus survival in the presence of deleterious amino acid substitutions at virion protein-protein or RNA-protein interfaces.",
+    "authors": "Gil-Redondo JC, Riomoros-Barahona V, Valiente L, Valbuena A, Mateu MG",
+    "pub_date": "2026 Jun 10",
+    "category": "Other",
+    "summary": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42267806/"
+  },
+  {
+    "title": "Cryo-EM structures of prevalent gut phage PD491P1 uncover extensive disulfide stabilization and distinct structural adaptations.",
+    "authors": "Cai C, Wang A, Shao Q, Zhang J, Wang Y, Hu H, Yuan K, Li L, Wang X, Fang Q, Ma Y",
+    "pub_date": "2026 Jun 4",
     "category": "Experimental",
-    "summary": "Biochemical assays confirm the role of specific residues in capsid protein‑protein interactions. Experimental results...",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/11223344/"
+    "summary": "1. Structure. 2026 Jun 4;34(6):942-954.e2. doi: 10.1016/j.str.2026.04.005. Epub \n2026 May 4.\n\nCryo-EM structures of prevalent gut phage PD491P1 uncover extensive disulfide \nstabilization and distinct ...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42086047/"
+  },
+  {
+    "title": "Performance of prototype serological immunoassays for foot-and-mouth disease virus using G-H loop peptides and stabilized virus-like particles.",
+    "authors": "Yassin AA, Sewell Y, Ludi AB, Burman A, Limon G, Afzal M, Horton D, King DP, Asfor AS",
+    "pub_date": "2026 Jun 2",
+    "category": "Other",
+    "summary": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42037383/"
+  },
+  {
+    "title": "Functional characterization of EcPSMB10: Suppression of RGNNV replication via inhibiting autophagy in vitro.",
+    "authors": "Li X, Jiang F, Wang Y, Wang K, Feng W, Qin Q, Yang M",
+    "pub_date": "2026 Jun 1",
+    "category": "Experimental",
+    "summary": "1. Fish Shellfish Immunol. 2026 Jun 1;176:111481. doi: 10.1016/j.fsi.2026.111481.\n Online ahead of print.\n\nFunctional characterization of EcPSMB10: Suppression of RGNNV replication via \ninhibiting aut...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42229675/"
+  },
+  {
+    "title": "Applying Distinct CDMS Strategies to Observe Nonclassical Virus Capsid Assembly.",
+    "authors": "Thiede L, Haris A, Damjanović T, Kung JCK, Müller-Guhl J, Pogan R, Rothe J, Schultze W, Ugelstad S, Eatough D, Giles K, Preece S, Richardson K, Ujma J, Uetrecht C",
+    "pub_date": "2026 Jun",
+    "category": "Other",
+    "summary": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42206604/"
+  },
+  {
+    "title": "EBV viral load and miR-BART10-3p expression in multiple sclerosis: A case-control study.",
+    "authors": "Rahimi SB, Hashemi SMA, Poursadeghfard M, Tamaddon G, Jamalidoust M, Daryabor G, Sarvari J",
+    "pub_date": "2026 Jun",
+    "category": "Experimental",
+    "summary": "1. Mult Scler Relat Disord. 2026 Jun;110:107108. doi:\n10.1016/j.msard.2026.107108.  Epub 2026 Mar 1.\n\nEBV viral load and miR-BART10-3p expression in multiple sclerosis: A \ncase-control study.\n\nRahimi ...",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42066693/"
   }
 ]
