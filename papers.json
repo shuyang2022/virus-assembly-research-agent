@@ -28,7 +28,7 @@
     "authors": "Madoo K, Mazboudi R, Islam ZM, Luo J, Kuschner RA, Gottlieb P, Dennehy JJ, Abzalimov RR, Galarza JM, Khayat R",
     "pub_date": "2026 Jun 23",
     "category": "Other",
-    "summary": "1. Proc Natl Acad Sci U S A. 2026 Jun 23;123(25):e2526969123. doi: \n10.1073/pnas.2526969123. Epub 2026 Jun 16.\n\nStructure of Human adenovirus 7 virus-like particles, a platform for developing \nnanothe...",
+    "summary": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42301791/"
   },
   {
@@ -51,8 +51,8 @@
     "title": "Mendelian randomization evidence for a causal link between Epstein-Barr virus antibody levels and head and neck cancer risk.",
     "authors": "Qiu J, Li MF, Guo YM, Yue CF, Pang LJ",
     "pub_date": "2026 Jun 12",
-    "category": "Other",
-    "summary": "",
+    "category": "Experimental",
+    "summary": "1. Medicine (Baltimore). 2026 Jun 12;105(24):e49115. doi: \n10.1097/MD.0000000000049115.\n\nMendelian randomization evidence for a causal link between Epstein-Barr virus \nantibody levels and head and nec...",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42299525/"
   },
   {
@@ -83,16 +83,16 @@
     "title": "Cryo-EM structures of prevalent gut phage PD491P1 uncover extensive disulfide stabilization and distinct structural adaptations.",
     "authors": "Cai C, Wang A, Shao Q, Zhang J, Wang Y, Hu H, Yuan K, Li L, Wang X, Fang Q, Ma Y",
     "pub_date": "2026 Jun 4",
-    "category": "Experimental",
-    "summary": "1. Structure. 2026 Jun 4;34(6):942-954.e2. doi: 10.1016/j.str.2026.04.005. Epub \n2026 May 4.\n\nCryo-EM structures of prevalent gut phage PD491P1 uncover extensive disulfide \nstabilization and distinct ...",
+    "category": "Other",
+    "summary": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42086047/"
   },
   {
     "title": "Performance of prototype serological immunoassays for foot-and-mouth disease virus using G-H loop peptides and stabilized virus-like particles.",
     "authors": "Yassin AA, Sewell Y, Ludi AB, Burman A, Limon G, Afzal M, Horton D, King DP, Asfor AS",
     "pub_date": "2026 Jun 2",
-    "category": "Other",
-    "summary": "",
+    "category": "Experimental",
+    "summary": "1. Microbiol Spectr. 2026 Jun 2;14(6):e0351425. doi: 10.1128/spectrum.03514-25. \nEpub 2026 Apr 27.\n\nPerformance of prototype serological immunoassays for foot-and-mouth disease \nvirus using G-H loop p...",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42037383/"
   },
   {
@@ -107,16 +107,16 @@
     "title": "Applying Distinct CDMS Strategies to Observe Nonclassical Virus Capsid Assembly.",
     "authors": "Thiede L, Haris A, Damjanović T, Kung JCK, Müller-Guhl J, Pogan R, Rothe J, Schultze W, Ugelstad S, Eatough D, Giles K, Preece S, Richardson K, Ujma J, Uetrecht C",
     "pub_date": "2026 Jun",
-    "category": "Other",
-    "summary": "",
+    "category": "Experimental",
+    "summary": "1. J Mass Spectrom. 2026 Jun;61(6):e70068. doi: 10.1002/jms.70068.\n\nApplying Distinct CDMS Strategies to Observe Nonclassical Virus Capsid Assembly.\n\nThiede L(1)(2), Haris A(3), Damjanović T(1)(2), Ku...",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42206604/"
   },
   {
     "title": "EBV viral load and miR-BART10-3p expression in multiple sclerosis: A case-control study.",
     "authors": "Rahimi SB, Hashemi SMA, Poursadeghfard M, Tamaddon G, Jamalidoust M, Daryabor G, Sarvari J",
     "pub_date": "2026 Jun",
-    "category": "Experimental",
-    "summary": "1. Mult Scler Relat Disord. 2026 Jun;110:107108. doi:\n10.1016/j.msard.2026.107108.  Epub 2026 Mar 1.\n\nEBV viral load and miR-BART10-3p expression in multiple sclerosis: A \ncase-control study.\n\nRahimi ...",
+    "category": "Other",
+    "summary": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42066693/"
   }
 ]
